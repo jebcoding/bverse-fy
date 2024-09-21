@@ -3,7 +3,7 @@ import './App.css';
 
 function VerseBut() {
   return (
-    <button>
+    <button className='button-29'>
       Generate
     </button>
   );
@@ -14,8 +14,9 @@ export const App = () => {
     <div className='container'>
       <div className='content'>
         <h4>Messege</h4>
-        <VerseBut />
+        
       </div>
+      <VerseBut />
     </div>
   );
 }

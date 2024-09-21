@@ -3,17 +3,27 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 body {
   background-color: aqua;
-}
-.container {
-  position: relative;
-  min-height: 100vh;
+  background-image: url('../public/assets/bg.jpg'); /* Adjust the path if needed */
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh; /* Ensures the body takes up the full viewport height */
 }
 
-.content {
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   position: absolute;
+  background-color: white;
+  height: 20em; /* Adjust as needed */
+  width: 10em;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%); 
+  transform: translate(-50%, -50%);
+  border-radius: 20px;
+  z-index: 1; /* Ensure it’s on top of the background */
 }
