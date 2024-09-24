@@ -13,8 +13,10 @@ export const App = () => {
   return (
     <div className='container'>
       <div className='content'>
-        <h4>Messege</h4>
-        
+        <h4 id='title'>Bible Verse For You</h4>
+            <div className='verse-display'>
+              <p>Your verse will appear here.</p>
+            </div>
       </div>
       <VerseBut />
     </div>
