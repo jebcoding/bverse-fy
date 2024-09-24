@@ -15,7 +15,9 @@ export const App = () => {
       <div className='content'>
         <h4 id='title'>Bible Verse For You</h4>
             <div className='verse-display'>
-              <p>Your verse will appear here.</p>
+              <p>"<span id='versetext'>For God so love the world that he gave is only begotten son,
+                that who ever believes on him should not perish, But have eternal life</span>"</p>
+              <p id='verses'>JOHN : 3:16</p>
             </div>
       </div>
       <VerseBut />

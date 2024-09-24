@@ -43,17 +43,16 @@
   transform: translateY(2px);
 }
 .button-29 {
-  position: relative;
-  top: 5em;
+  margin-top: 5em;
 }
 
 #title {
-  position: relative;
-  bottom: 10em;
+  position: absolute;
+  top: 0;
   background-color: rgb(25, 30, 27);
   color: white;
   padding: 11px 20px;
-  width: 15em;
+  width: 100%;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   text-align: center;

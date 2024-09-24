@@ -29,6 +29,3 @@ body {
   border-radius: 20px;
   z-index: 1; /* Ensure it’s on top of the background */
 }
-.content {
-  padding: 20px 20px;
-}
