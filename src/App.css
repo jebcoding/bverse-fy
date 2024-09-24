@@ -58,5 +58,12 @@
   text-align: center;
 }
 .verse-display {
-  padding: 0 20px; /* Adds space on all sides */
+  padding: 0 20px;
+  text-align: justify;
+}
+#verses {
+  font-weight: 700;
+  text-align: center;
+  position: relative;
+  top: 1em;
 }
