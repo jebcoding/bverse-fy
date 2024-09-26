@@ -6,13 +6,13 @@
 }
 
 body {
-  background-color: aqua;
+
   background-image: url('../public/assets/bg.jpg'); /* Adjust the path if needed */
   background-size: cover;
   background-repeat: no-repeat;
-  height: 100vh; /* Ensures the body takes up the full viewport height */
+  background-position: center;
+  background-attachment: fixed;
 }
-
 .container {
   display: flex;
   flex-direction: column;
@@ -21,7 +21,7 @@ body {
   position: absolute;
   background-color: white;
   height: 25em; /* Adjust as needed */
-  width: 15em;
+  width: 18em;
   top: 50%;
   left: 50%;
 

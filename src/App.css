@@ -68,3 +68,12 @@
   position: relative;
   top: 1em;
 }
+#tclogo {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  right: -10px;
+  bottom: -8px;
+  border: 1px solid black;
+  border-radius: 40px;
+}
