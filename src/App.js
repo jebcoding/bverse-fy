@@ -1,20 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-
-const verses = [
-  {
-    text: "For God so loved the world that he gave his only begotten Son, that whoever believes in Him should not perish but have everlasting life.",
-    reference: "John 3:16"
-  },
-  {
-    text: "The Lord is my shepherd; I shall not want.",
-    reference: "Psalm 23:1"
-  },
-  {
-    text: "I can do all things through Christ who strengthens me.",
-    reference: "Philippians 4:13"
-  }
-];
+import verses from './verse.json';
 
 function BibleVerseGenerator() {
   const [verse, setVerse] = useState(verses[Math.floor(Math.random() * verses.length)]);
