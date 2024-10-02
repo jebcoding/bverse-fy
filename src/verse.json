@@ -1,15 +1,190 @@
 [
-    {
-      "text": "For God so loved the world that he gave his only begotten Son, that whoever believes in Him should not perish but have everlasting life.",
-      "reference": "John 3:16"
-    },
-    {
-      "text": "The Lord is my shepherd; I shall not want.",
-      "reference": "Psalm 23:1"
-    },
-    {
-      "text": "I can do all things through Christ who strengthens me.",
-      "reference": "Philippians 4:13"
-    }
-  ]
-  
+  {
+    "text": "The Lord is my light and my salvation; whom shall I fear? The Lord is the strength of my life; of whom shall I be afraid?",
+    "reference": "Psalm 27:1"
+  },
+  {
+    "text": "Trust in the Lord with all your heart, and lean not on your own understanding.",
+    "reference": "Proverbs 3:5"
+  },
+  {
+    "text": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future.",
+    "reference": "Jeremiah 29:11"
+  },
+  {
+    "text": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness, and self-control.",
+    "reference": "Galatians 5:22-23"
+  },
+  {
+    "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose.",
+    "reference": "Romans 8:28"
+  },
+  {
+    "text": "The name of the Lord is a strong tower; the righteous run to it and are safe.",
+    "reference": "Proverbs 18:10"
+  },
+  {
+    "text": "Cast all your anxiety on him because he cares for you.",
+    "reference": "1 Peter 5:7"
+  },
+  {
+    "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+    "reference": "Philippians 4:6"
+  },
+  {
+    "text": "And we know that the Son of God has come and has given us understanding, so that we may know him who is true.",
+    "reference": "1 John 5:20"
+  },
+  {
+    "text": "Come to me, all you who are weary and burdened, and I will give you rest.",
+    "reference": "Matthew 11:28"
+  },
+  {
+    "text": "I sought the Lord, and he answered me; he delivered me from all my fears.",
+    "reference": "Psalm 34:4"
+  },
+  {
+    "text": "If God is for us, who can be against us?",
+    "reference": "Romans 8:31"
+  },
+  {
+    "text": "You are the light of the world. A town built on a hill cannot be hidden.",
+    "reference": "Matthew 5:14"
+  },
+  {
+    "text": "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.",
+    "reference": "Joshua 1:9"
+  },
+  {
+    "text": "For we live by faith, not by sight.",
+    "reference": "2 Corinthians 5:7"
+  },
+  {
+    "text": "The Lord your God is in your midst, a mighty one who will save; he will rejoice over you with gladness.",
+    "reference": "Zephaniah 3:17"
+  },
+  {
+    "text": "Let your light shine before others, that they may see your good deeds and glorify your Father in heaven.",
+    "reference": "Matthew 5:16"
+  },
+  {
+    "text": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+    "reference": "Isaiah 41:10"
+  },
+  {
+    "text": "Blessed are the pure in heart, for they will see God.",
+    "reference": "Matthew 5:8"
+  },
+  {
+    "text": "You will keep in perfect peace those whose minds are steadfast, because they trust in you.",
+    "reference": "Isaiah 26:3"
+  },
+  {
+    "text": "He heals the brokenhearted and binds up their wounds.",
+    "reference": "Psalm 147:3"
+  },
+  {
+    "text": "The Lord is close to the brokenhearted and saves those who are crushed in spirit.",
+    "reference": "Psalm 34:18"
+  },
+  {
+    "text": "He must become greater; I must become less.",
+    "reference": "John 3:30"
+  },
+  {
+    "text": "What then shall we say in response to these things? If God is for us, who can be against us?",
+    "reference": "Romans 8:31"
+  },
+  {
+    "text": "There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love.",
+    "reference": "1 John 4:18"
+  },
+  {
+    "text": "And my God will meet all your needs according to the riches of his glory in Christ Jesus.",
+    "reference": "Philippians 4:19"
+  },
+  {
+    "text": "As iron sharpens iron, so one person sharpens another.",
+    "reference": "Proverbs 27:17"
+  },
+  {
+    "text": "No weapon forged against you will prevail, and you will refute every tongue that accuses you.",
+    "reference": "Isaiah 54:17"
+  },
+  {
+    "text": "Be still, and know that I am God.",
+    "reference": "Psalm 46:10"
+  },
+  {
+    "text": "In all your ways acknowledge him, and he will make your paths straight.",
+    "reference": "Proverbs 3:6"
+  },
+  {
+    "text": "You are my hiding place; you will protect me from trouble and surround me with songs of deliverance.",
+    "reference": "Psalm 32:7"
+  },
+  {
+    "text": "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary; they will walk and not be faint.",
+    "reference": "Isaiah 40:31"
+  },
+  {
+    "text": "This is the day that the Lord has made; let us rejoice and be glad in it.",
+    "reference": "Psalm 118:24"
+  },
+  {
+    "text": "We love because he first loved us.",
+    "reference": "1 John 4:19"
+  },
+  {
+    "text": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+    "reference": "2 Corinthians 5:17"
+  },
+  {
+    "text": "The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you.",
+    "reference": "Numbers 6:24-25"
+  },
+  {
+    "text": "But the Lord stood by me and strengthened me.",
+    "reference": "2 Timothy 4:17"
+  },
+  {
+    "text": "Let everything that has breath praise the Lord.",
+    "reference": "Psalm 150:6"
+  },
+  {
+    "text": "And we know that all things work together for good to those who love God, to those who are the called according to his purpose.",
+    "reference": "Romans 8:28"
+  },
+  {
+    "text": "You will know the truth, and the truth will set you free.",
+    "reference": "John 8:32"
+  },
+  {
+    "text": "The Lord is my strength and my song; he has become my salvation.",
+    "reference": "Exodus 15:2"
+  },
+  {
+    "text": "As for me and my house, we will serve the Lord.",
+    "reference": "Joshua 24:15"
+  },
+  {
+    "text": "The God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.",
+    "reference": "Romans 15:13"
+  },
+  {
+    "text": "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you.",
+    "reference": "Isaiah 43:2"
+  }, 
+  {
+    "text": "For God so loved the world that he gave his only begotten Son, that whoever believes in Him should not perish but have everlasting life.",
+    "reference": "John 3:16"
+  },
+  {
+    "text": "The Lord is my shepherd; I shall not want.",
+    "reference": "Psalm 23:1"
+  },
+  {
+    "text": "I can do all things through Christ who strengthens me.",
+    "reference": "Philippians 4:13"
+  }
+]
