@@ -17,7 +17,7 @@ function BibleVerseGenerator() {
             </div>
       </div>
       <button className='button-29' onClick={() => setVerse(verses[Math.floor(Math.random() * verses.length)])}>
-      Generate
+      Next Verse
     </button>
     </div>
   );
